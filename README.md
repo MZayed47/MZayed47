@@ -6,8 +6,9 @@
 - You can know further details about me at: https://sites.google.com/view/mmashrukhzayed/
 
 - Overview:
-- [![Mashrukh Zayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MZayed47&show_icons=true&theme=onedark)](https://github.com/MZayed47/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MZayed47&show_icons=true&theme=onedark)](https://github.com/MZayed47/github-readme-stats)
+[![Mashrukh Zayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MZayed47&show_icons=true&theme=onedark)](https://github.com/MZayed47/github-readme-stats)
+- Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MZayed47&show_icons=true&theme=onedark)](https://github.com/MZayed47/github-readme-stats)
 - 
 <!---
 MZayed47/MZayed47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
