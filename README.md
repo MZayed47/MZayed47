@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MZayed47
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Natural Language Processing, and Computer Vision.
-- 🌱 I’m currently working with Computer Vision algortihms to apply them in autonomous navigation and human gesture recognition. I am also working with deep neural networks for Natural Language Processing.
-- 💞️ I’m looking to collaborate on autonomous navigation of vehicles, human gesture recognition, and improving NLP.
-- 📫 How to reach me: Email to: mashrukhzayed@iut-dhaka.edu
+- 👀 I’m interested in **Software Development**, **Database Management**, Academic Research in **Data Science** and **Machine Learning**.
+- 🌱 In my current employment, I'm solely engaged in Software Development in **_Python & Golang_**, implementing **_Digital Financial Services __(DFS)_**, interacting with **_DBMS_**, cluster management in **_Kubernetes_**.
+- 💞️ I am always exploring different fields of research in Data Science. My ongoing research works include **Social Network Analysis**, **Recommendation System**, **Security in IoT**, **Natural Language Processing**, and **Computer Vision**.
+- 📫 How to reach me: Email to: **_mashrukhzayed@iut-dhaka.edu_**
 - You can know further details about me at: https://sites.google.com/view/mmashrukhzayed/
 
 - Overview:
